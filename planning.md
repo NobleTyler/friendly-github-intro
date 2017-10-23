@@ -1,20 +1,13 @@
 # Planning
 
 ## Schedule + Ideas
-**9:30 AM** 
+**4:30 PM** 
 
-* Steph & Joey Meet up and Setup
-* Matt Arrives
-* Some food and beverages? - coffee/tea, snacks, nametags, sticky notes
+* Ramona ,Tyler and Andres arrive to Setup
 
-**10:00 - 10:15 AM**
 
-* Introductions - Joey, Steph, Matt'
-* What does mozilla do - why are we here, what can we do, how we can help, how you can get involved
-* see who of the group is familiar with github - spread them around to help tables
-
-**10:15 - 10:45 AM**
-
+**5:00 - 5:30 PM**
+*Shout out to mozilla science labs for all the materials
 * The hook: Run through some common scenarios
 	* Scenario 1: Experimentation: 
 		* Thesis with _version1, _version1a, _version1b
@@ -22,12 +15,11 @@
 		* Github as a todo list and collaboration manager (e.g. issue tracking, all parties have up-to-date copies)
 	* Scenario 3: Time machine capabilities
 		* Track and go back
-	* Scenario 4: ...
-		* ...
+	*Presentation 1, what is github and how is it used?
 		
-**10:45 AM - 11:30 AM**
-
-* Demo 1: Making your first project
+**5:30 PM - 6:30 PM**
+*Presentation 2 Using Github locally, focus on commandline 
+* Demo 3: Making your first project
 * Essential Pieces:
 	* Start with readme
 	* Mention contributing & code of conduct (revisit later with greater detail - and make it)
@@ -44,16 +36,13 @@
 
 
 
-**11:30 AM - 12:00 AM**
+**6:30 PM - 7:00 PM**
 
 * Work time to create your first project or add an existing project to github
 * Readmes will be the focus
+*pizza and stuff?
 
-**Break: 12:00 PM - 12:30 PM** 
-
-* continue working
-* Food - pizza or sandwiches, etc. 
-
+____________________________________________should it go past 7?
 
 **12:30 PM - 1:00 PM**
 * Regroup and field comments/ feedback / questions, etc.
