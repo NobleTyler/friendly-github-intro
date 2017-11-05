@@ -7,6 +7,7 @@
 
 
 **5:00 - 5:30 PM**
+*pizza and stuff?
 *Shout out to mozilla science labs for all the materials
 * The hook: Run through some common scenarios
 	* Scenario 1: Experimentation: 
@@ -36,51 +37,30 @@
 
 
 
-**6:30 PM - 7:00 PM**
+**6:30 PM - 7:30 PM**
 
 * Work time to create your first project or add an existing project to github
 * Readmes will be the focus
-*pizza and stuff?
+
 
 ____________________________________________should it go past 7?
+#CLASS 2
 
-**12:30 PM - 1:00 PM**
-* Regroup and field comments/ feedback / questions, etc.
-* Demo 2: the github flow
-* Essentials:
-	* adding collaborators
-	* issues
-	* good first bugs
-	* Branching / Merging / Pull Request 
-* Additional:
-	* contributing
-	* code of conduct
+**4:30 PM - 5:00 PM**
+*Setup
+
+**5:00 PM - 5:45 PM**
+*Go over presentation 3
+*Form groups
+*Get food at beginning
 
 
-**1:00 PM - 1:45 PM**
+**5:45 PM - 6:30 PM**
 
-* Work time to go through github flow with groups/partners
+*Do my first pull request
 
-**1:45 PM - 2:00 PM**
+**6:30 PM - 7:30: PM**
+*Other things you can do with github
+*Questions and comments
+*thank mozilla science labs and other sponsors then wind down
 
-* Regroup and field comments/ feedback / questions, etc.
-
-**2:00 PM - 2:30: PM**
-
-* Demo 3: 
-	* gh-pages 	
-
-**2:30 PM - 3:00 PM**
-
-* Work time to go through ...
-
-
-**3:00 PM**
-
-* Start winding down
-* overview of all things learned
-* Closing remarks, feedback session, improvements, things that worked?
-
-**3:30 PM**
-
-* Close / Cleanup
