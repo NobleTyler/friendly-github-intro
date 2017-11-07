@@ -9,6 +9,7 @@
 **5:00 - 5:30 PM**
 *pizza and stuff?
 *Shout out to mozilla science labs for all the materials
+*Presentation 1, what is github and how is it used?
 * The hook: Run through some common scenarios
 	* Scenario 1: Experimentation: 
 		* Thesis with _version1, _version1a, _version1b
@@ -16,7 +17,7 @@
 		* Github as a todo list and collaboration manager (e.g. issue tracking, all parties have up-to-date copies)
 	* Scenario 3: Time machine capabilities
 		* Track and go back
-	*Presentation 1, what is github and how is it used?
+	
 		
 **5:30 PM - 6:30 PM**
 *Presentation 2 Using Github locally, focus on commandline 
