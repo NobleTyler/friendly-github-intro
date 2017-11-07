@@ -21,6 +21,7 @@
 **5:30 PM - 6:30 PM**
 *Presentation 2 Using Github locally, focus on commandline 
 * Demo 3: Making your first project
+**Also cover initializing too, will add presentation slides for this
 * Essential Pieces:
 	* Start with readme
 	* Mention contributing & code of conduct (revisit later with greater detail - and make it)
